@@ -5,6 +5,7 @@ a{
 
 .home {
     display: flex;
+    margin-top: 3rem;
 }
 
 .product-con{

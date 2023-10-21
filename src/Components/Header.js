@@ -8,7 +8,12 @@ import { AiFillDelete } from 'react-icons/ai'
 const style = {
     NavStyle : {
         backgroundColor : "#002D62",
-        height : 80,
+        height : 65,
+        position: 'fixed',
+        top : 0,
+        left : 0,
+        zIndex : 90,
+        width : '100vw',
     },
     Form : {
         width : 450,
